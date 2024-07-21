@@ -38,8 +38,6 @@ B.Sc in Computer Science at PUCRS/Brazil, Master of Business Administration in B
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raffathamires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
 
-
-
 <!--
 **raffathamires/raffathamires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
